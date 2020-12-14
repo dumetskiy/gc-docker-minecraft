@@ -14,4 +14,5 @@ services:
       OVERRIDE_SERVER_PROPERTIES: "TRUE"
       MAX_TICK_TIME: "-1"
       MOTD: "Gamers Club Official"
-      MEMORY: 3G
+      MEMORY: 4G
+      ONLINE_MODE: false
