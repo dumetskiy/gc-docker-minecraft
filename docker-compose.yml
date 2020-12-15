@@ -14,5 +14,7 @@ services:
       OVERRIDE_SERVER_PROPERTIES: "TRUE"
       MAX_TICK_TIME: "-1"
       MOTD: "Gamers Club Official"
+      SERVER_NAME: "Gamers Club Official"
       MEMORY: 4G
       ONLINE_MODE: 'false'
+      ICON: 'http://10.0.0.1/assets/img/gc.png'
